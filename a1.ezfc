@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.54" productVersion="11.0.6565" PIVersion="1.0.0.0" href="file:///C:\curs.xsn" ?><?mso-application progid="InfoPath.Document"?><my:field xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-09-12T06:50:44" xml:lang="ru">
+	<my:group></my:group>
+	<my:curs>Б.9.1 Правила устройства и безопасной эксплуатации грузоподъемных кранов (ПБ 10-382-00)</my:curs>
+	<my:temicursov>
+		<my:temacursa>
+			<my:tktext>Б.9.1 Правила устройства и безопасной эксплуатации грузоподъемных кранов (ПБ 10-382-00)</my:tktext>
+			<my:questions>
+				<my:question>
+									<my:qtext>что должно быть указано на табличке грейфера ?</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>1</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>2</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>3</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>4</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>777777777777</my:atext>
+								</my:answer>
+									<my:qhelp>help 1</my:qhelp>
+								</my:question><my:question>
+									<my:qtext>что должно быть указано на табличке крана находящегося в эксплуатации ?</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>1a</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>2a</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>3a</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>7777777777</my:atext>
+								</my:answer>
+									<my:qhelp>help 2</my:qhelp>
+								</my:question><my:question>
+									<my:qtext>при каком удлинении звена цепи от первоначального размера цепной строп подлежит браковке ? (более ____ %)</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>2,5</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1,5</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>2</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>3</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>7777777777777</my:atext>
+								</my:answer>
+									<my:qhelp>help 3</my:qhelp>
+								</my:question><my:question>
+									<my:qtext>Вопрос 4</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>вариант ответа 1</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext><font xmlns="http://www.w3.org/1999/xhtml" size="2">вариант ответа 2</font></my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext><font size="2" xmlns="http://www.w3.org/1999/xhtml">777777777777777777777777</font></my:atext>
+								</my:answer>
+									<my:qhelp>help 4</my:qhelp>
+								</my:question><my:question>
+									<my:qtext>Вопрос 5</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext><font size="2" xmlns="http://www.w3.org/1999/xhtml">вариант ответа 1ab</font></my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext><font size="2" xmlns="http://www.w3.org/1999/xhtml">вариант ответа 2ab</font></my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext><font size="2" xmlns="http://www.w3.org/1999/xhtml">777777777777777</font></my:atext>
+								</my:answer>
+									<my:qhelp>help 5</my:qhelp>
+								</my:question>
+			</my:questions>
+			<my:tkabout>Б.9.1 Правила устройства и безопасной эксплуатации грузоподъемных кранов (ПБ 10-382-00)</my:tkabout>
+			<my:materials>
+				<my:material>
+					<my:name>Б.9.1 Правила устройства и безопасной эксплуатации грузоподъемных кранов (ПБ 10-382-00)</my:name>
+					<my:filename>pusto1.rtf</my:filename>
+				</my:material>
+			</my:materials>
+		</my:temacursa>
+	</my:temicursov>
+</my:field>

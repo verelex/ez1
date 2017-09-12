@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<curses xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:lang="ru">
+	<curs>
+		<file>a1.ezf</file>
+		<about>А. Общие требования промышленной безопасности</about>
+	</curs>
+	<curs>
+		<file>ex0.xml</file>
+		<about>Б.9.1 Правила устройства и безопасной эксплуатации грузоподъемных кранов (ПБ 10-382-00)</about>
+	</curs>
+	<curs>
+		<file>b2_1.ezf</file>
+		<about>Б.2.1 Правила 1</about>
+	</curs>
+	<curs>
+		<file>b2_2.ezf</file>
+		<about>Б.2.2 Правила 2</about>
+	</curs>
+</curses>

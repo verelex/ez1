@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.54" productVersion="11.0.6565" PIVersion="1.0.0.0" href="file:///C:\curs.xsn" ?><?mso-application progid="InfoPath.Document"?><my:field xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-09-12T06:50:44" xml:lang="ru">
+	<my:group></my:group>
+	<my:curs>Б.9.1 Правила устройства и безопасной эксплуатации грузоподъемных кранов (ПБ 10-382-00)</my:curs>
+	<my:temicursov>
+		<my:temacursa>
+			<my:tktext>Б.9.1 Правила устройства и безопасной эксплуатации грузоподъемных кранов (ПБ 10-382-00)</my:tktext>
+			<my:questions>
+				<my:question>
+					<my:qtext>какое усилие возникает в ветвях 2-х ветвевого стропа при подъме груза G, при угле между ними 60° ?</my:qtext>
+					<my:answer>
+						<my:astatus>Неправильный ответ</my:astatus>
+						<my:atext>0,7G</my:atext>
+					</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>0,5G</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>0,8G</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1,0G</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>0,6G</my:atext>
+								</my:answer>
+					<my:qhelp></my:qhelp>
+				</my:question><my:question>
+									<my:qtext>Какое должно быть минимальное расстояние до границы опасной зоны от стрелового крана при подъме груза на высоту 10 - 20 м ?  (не менее _________ м от крайней точки горизонтальной проекции груза на земле)</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>5</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>7</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>5,5</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>6,0</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>6,5</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext><font face="Times New Roman" xmlns="http://www.w3.org/1999/xhtml">Какой должен быть уклон площадки в градусах при установке крана со стрелой длиной 30 и 36 м ? (не более ____ <sup>0</sup> )</font></my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>3,5</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>3,0</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>2,5</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>2,0</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>4,0</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>какое минимальное расстояние должно быть от основания откоса песчаного (гравийного) котлована глубиной 2 м до ближайших опор крана ?</my:qtext>
+									<my:answer>
+										<my:astatus>Правильный ответ</my:astatus>
+										<my:atext>3,0</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>2,4</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>2,0</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1,5</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>2,8</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>что должно быть указано на табличке грейфера ?</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>предприятие-изготовитель, №, объем, вид материала, для перевалки которого он предназначен, год изготовления, марка стали</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>предприятие-изготовитель, № , вид материала, для перевалки которого он с4   предназначен, год изготовления, дата испытания, марка стали</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>предприятие-изготовитель, № , объем, марка стали, год изготовления</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>предприятие-изготовитель, №, объем, собственная масса, вид материала, для перевалки которого он предназначен и наибольшая допустимая масса зачерпнутого материала</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>предприятие-изготовитель, №, собственная масса, вид материала, для перевалки которого он предназначен и наибольшая допустимая масса зачерпнутого материала</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>канатный строп подлежит браковке, если число видимых обрывов наружных проволок превышает ___?___ на участке длиной 6 d ?</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>5</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>4</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>3</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>7</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>2</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>в штабеля какой высоты допускается укладывать фундаментные блоки? (не более ______ м )</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>2,5</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>3,0</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>2,4</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>2,8</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>2,6</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>при какой нагрузке должен срабатывать ограничитель грузоподъемности автомобильных и гусеничных кранов?   (на ________ % превышающей г/п на данном вылете)</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>25</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>-20</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>35</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>10</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>15</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>при каком расстоянии до ЛЭП от стрелы крана или груза работы должны производиться по наряду/допуску ? (ближе _______ м)</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>50</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>30</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>40</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>35</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>45</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>стропальщик может находиться возле груза во время его подъема или опускания, если груз поднят на высоту не более ____?____ мм от уровня площадки ?</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>1400</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>1000</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1200</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1500</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1300</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>при каком % износа зева крюка от первоначальной высоты вертикального сечения крюк бракуется? ( более ____?____% )</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>5</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>10</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>7</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>9</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>8</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>как часто в процессе эксплуатации траверс, захватов и тары владелец должен их периодически осматривать ?</my:qtext>
+									<my:answer>
+										<my:astatus>Правильный ответ</my:astatus>
+										<my:atext>каждый месяц</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1раз в квартал</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1 раз в год</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1 раз в 6 мес</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>при испытании крана</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>что должно быть указано на табличке крана находящегося в эксплуатации ?</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>тип, регистрационный №, исполнение, грузоподъемность, заводской номер</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>год изготовления, заводской №, марка, дата испытания</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>заводской №, регистрационный №, год изготовления, дата испытания</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>рег.№, паспортная г/п, дата следующего ЧТО и ПТО дата испытания, заводской №, год изготовления, исполнение</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>дата испытания, заводской №, год изготовления, исполнение</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>кем выдается разрешение на пуск в работу гусеничных и пневмоколесных кранов после их перестановки на новый объект ?</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>гл.инженером предприятия</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>лицом по надзору</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>лицом, ответственным за содержание кранов в исправном состоянии</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>инспектором Госгортехнадзора</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>инженером по производственному контролю</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>какое минимальное расстояние должно быть от основания откоса песчаного (гравийного) котлована глубиной 3 м до ближайших опор крана ?</my:qtext>
+									<my:answer>
+										<my:astatus>Правильный ответ</my:astatus>
+										<my:atext>4,0</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>3,6</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>3,25</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1,75</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>2,5</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>на каком расстоянии между грузозахватным органом и упором ограничитель механизма подъема груза должен обеспечить остановку грузозахватного органа при подъеме без груза ? (не менее ____?____ мм )</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>50</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>200</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>150</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>180</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>100</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>кто может быть допущен для подвешивания на крюк груза без предварительной обвязки ?</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>любой рабочий основной профессии прошедший инструктаж на рабочем месте</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>любой рабочий основной профессии по согласованию с лицом по надзору</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>любой рабочий основной профессии по согласованию с инспектором ГГТН</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>любой рабочий основной профессии, дополнительно  обученный профессии стропальщика по сокращенной программе</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>любой рабочий основной профессии по согласованию с инспектором охраны труда</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>на какие грузоподъемные машины распространяются Правила устройства и безопасной эксплуатации грузоподъемных кранов?</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>грузоподъемные машины, установленные в шахтах, морских и речных судах;</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>грузоподъемные машины специального назначения;</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>грузоподъемные краны, предназначенные для работы с вибропогружателями, шпунтовыдергивателями, буровым оборудованием и т.п.;</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>грузоподъемные  краны  всех типов, включая мостовые  краны-штабелеры с машинным приводом;</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>грузоподъемные краны с ручным приводом.</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>при какой температуре допускается применять канатные стропы для транспортирования грузов изготовленные из канатов с органическим сердечником ? (не выше _____ °С)</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>110</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>125</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>100</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>115</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>120</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>какой должна быть длина свободного конца каната за последним зажимом и шаг расположения зажимов на канате (не менее _____ d каната) ?</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>5</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>4</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>2</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>6</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>3</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>как часто проводится полное тех. освидетельствование кранов?  (не реже ...)?</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>1 раза в 12мес.</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>1 раза в 3 года</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1 раза в 2 года</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1 раза в 5 лет</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1 раза в 4 года</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>какое минимальное число проколов каждой прядью допускается для канатов 0 до 15 мм ?</my:qtext>
+									<my:answer>
+										<my:astatus>Правильный ответ</my:astatus>
+										<my:atext>4</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>3</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>2</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>кем определяется время действия наряда-допуска для работы крана вблизи ЛЭП ?</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>Организацией-владельцем ЛЭП</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>Инспекцией энергонадзора</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>Органом Госгортехнадзора</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>Инспекцией по охране труда</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>Организацией, выдавшей наряд-допуск</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>в штабеля какой высоты допускается укладывать сваи? (не более ____ м)</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>2,0</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>3<font xmlns="http://www.w3.org/1999/xhtml" size="2">,0</font></my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>4<font xmlns="http://www.w3.org/1999/xhtml" size="2">,0</font></my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>3,5</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>2,5</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>канатный строп подлежит браковке, если число видимых обрывов наружных проволок превышает ___?___ на участке канатного стропа длиной 30 d</my:qtext>
+									<my:answer>
+										<my:astatus>Правильный ответ</my:astatus>
+										<my:atext>17</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>10</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>15</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>11</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>14</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>при каком удлинении звена цепи от первоначального размера цепной строп подлежит браковке ? (более ____ %)</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>2,5</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>1,5</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>2</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>3</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>0,5</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>на какую высоту должен быть предварительно поднят груз при горизонтальном перемещении над встречающимися на пути предметами? ( на _____ мм)</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>450</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext>500</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>400</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>300</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>350</my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>текст вопроса № 28</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext>вариант ответа 1</my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext><font xmlns="http://www.w3.org/1999/xhtml" size="2">вариант ответа 2</font></my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>текст вопроса № 29</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext><font xmlns="http://www.w3.org/1999/xhtml" size="2">вариант ответа 1</font></my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext><font xmlns="http://www.w3.org/1999/xhtml" size="2">вариант ответа 2</font></my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question><my:question>
+									<my:qtext>текст вопроса № 30</my:qtext>
+									<my:answer>
+										<my:astatus>Неправильный ответ</my:astatus>
+										<my:atext><font xmlns="http://www.w3.org/1999/xhtml" size="2">вариант ответа 1</font></my:atext>
+									</my:answer><my:answer>
+									<my:astatus>Правильный ответ</my:astatus>
+									<my:atext><font xmlns="http://www.w3.org/1999/xhtml" size="2">вариант ответа 2</font></my:atext>
+								</my:answer>
+									<my:qhelp></my:qhelp>
+								</my:question>
+			</my:questions>
+			<my:tkabout>Б.9.1 Правила устройства и безопасной эксплуатации грузоподъемных кранов (ПБ 10-382-00)</my:tkabout>
+			<my:materials>
+				<my:material>
+					<my:name>Б.9.1 Правила устройства и безопасной эксплуатации грузоподъемных кранов (ПБ 10-382-00)</my:name>
+					<my:filename>pusto1.rtf</my:filename>
+				</my:material>
+			</my:materials>
+		</my:temacursa>
+	</my:temicursov>
+</my:field>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opt xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:lang="ru">
+	<admin>
+		<name>Иванов Александр Ильич</name>
+		<jobTitle>Инженер-методист</jobTitle>
+	</admin>
+	<user>
+		<name>Сидоров Алексей Владимирович</name>
+		<jobTitle>Директор</jobTitle>
+	</user>
+</opt>
